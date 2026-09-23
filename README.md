@@ -6,7 +6,7 @@ A collection of end-to-end Excel projects — cleaning messy data, transforming 
 
 | Project | Description | Skills |
 |---|---|---|
-| [Coffee Sales Analysis](./01-coffee-sales-analysis) | Cleaned and joined a relational coffee order dataset (orders, customers, products), built an interactive sales dashboard, and analyzed loyalty program effectiveness, seasonality, and top customers | XLOOKUP, COUNTIF, PivotTables, Slicers, Dashboard Design |
+| [Coffee Sales Analysis](./Coffee-Sales) | Cleaned and joined a relational coffee order dataset (orders, customers, products), built an interactive sales dashboard, and analyzed loyalty program effectiveness, seasonality, and top customers | XLOOKUP, COUNTIF, PivotTables, Slicers, Dashboard Design |
 
 *(more projects will be added here as they're completed)*
 
@@ -20,3 +20,10 @@ Each project folder contains its own README with:
 
 ## How to View
 GitHub doesn't render Excel dashboards interactively — each project's README includes a screenshot for a static preview. Download the relevant `.xlsx` file from each project folder to explore the dashboard yourself.
+
+---
+
+**Mohammed Adnan**
+Data Analyst
+📍 Berlin, Germany
+🔗 [LinkedIn](www.linkedin.com/in/a-dnan)

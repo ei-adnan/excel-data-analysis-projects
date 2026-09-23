@@ -41,7 +41,7 @@ The raw dataset is split across three related sheets:
 
 ## Dashboard
 
-![Coffee Sales Dashboard](./images/Coffee-dashboard.png)
+![Coffee Sales Dashboard](./Coffee-dashboard.png)
 
 The dashboard combines four PivotTable-driven views — total sales over time (by coffee type), sales by country, top 5 customers, and interactive filtering — with a timeline and slicers for coffee type, roast type, size, and loyalty card status.
 

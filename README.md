@@ -1,6 +1,7 @@
 # Excel Data Analysis Projects
 
-A collection of end-to-end Excel projects — cleaning messy data, transforming it with lookups and calculated fields, and building interactive dashboards to surface insights.
+A collection of end-to-end Excel projects.
+Cleaning messy data, transforming , and building interactive dashboards to surface insights.
 
 ## Projects
 
@@ -23,7 +24,6 @@ GitHub doesn't render Excel dashboards interactively — each project's README i
 
 ---
 
-**Mohammed Adnan**
-Data Analyst
-📍 Berlin, Germany
+**Mohammed Adnan**\
+Data Analyst | 📍 Berlin, Germany\
 🔗 [LinkedIn](www.linkedin.com/in/a-dnan)

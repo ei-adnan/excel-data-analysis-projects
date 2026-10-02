@@ -76,15 +76,6 @@ Explaining these dips properly needs traffic, ad spend and promotion data, none 
 - Double down on **Sets**, the biggest revenue driver.
 - Plan campaigns for the weaker months (April, September, and Q4) and collect marketing data to measure their impact.
 
-## Repository Contents
-
-```
-├── README.md
-├── Annual_dashboard.png                 # Dashboard screenshot
-├── Fabrico_Store_Data_Analysis.xlsx     # Cleaned data, pivot tables and dashboard
-├── store_data.xlsx                      # Source data
-└── Business_problem_statement.docx      # Problem framing and notes
-```
 
 ## Author
 

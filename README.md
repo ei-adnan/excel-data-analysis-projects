@@ -8,7 +8,6 @@ Cleaning messy data, transforming , and building interactive dashboards to surfa
 | Project | Description | Skills |
 |---|---|---|
 | [Coffee Sales Analysis](./Coffee-Sales) | Cleaned and joined a relational coffee order dataset (orders, customers, products), built an interactive sales dashboard, and analyzed loyalty program effectiveness, seasonality, and top customers | XLOOKUP, COUNTIF, PivotTables, Slicers, Dashboard Design |
-
 | [Fabrico Store Analysis](./Clothing-sales) | Cleaned 31K e-commerce clothing orders, built an interactive annual sales dashboard, and analyzed performance by gender, age group, category, channel, state, and seasonality, ending with recommendations for 2023 | Data Cleaning, Nested IF, PivotTables, Slicers, Dashboard Design |
 
 *(more projects will be added here as they're completed)*
